@@ -48,6 +48,7 @@ Date: 2013/07/17(水)　午後　http://www.iij.ad.jp/news/seminar/2013/sm130717
 # Engine Yard
 
 * 日本支社成立日：2012/3/14
+* Ruby, PHP, Node.js
 * Good recipes -- https://github.com/engineyard/ey-cloud-recipes/
 * Engine Yard Local -- http://www.engineyard.co.jp/products/local
 
@@ -60,3 +61,5 @@ Date: 2013/07/17(水)　午後　http://www.iij.ad.jp/news/seminar/2013/sm130717
 * 日本運営会社：http://www.salesforce.com/homepage-prosp/
 * 日本人社員：５人（４男１女）Matzを含む
 * サポートプログラミング言語：様々（Perlも予定）
+* Heroku Apps: 3,500,000
+* 40% apps are by Ruby
